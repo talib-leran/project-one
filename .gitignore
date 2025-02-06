@@ -1,0 +1,4 @@
+task.txt 
+*.exe
+!66.exe
+90/
