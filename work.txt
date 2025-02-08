@@ -1,3 +1,4 @@
 $ git reset --mixed 8d3e2c5
 Creat page setting
 Creat  marge
+edit on branch location
