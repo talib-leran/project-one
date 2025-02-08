@@ -1,4 +1,9 @@
 $ git reset --mixed 8d3e2c5
 Creat page setting
+<<<<<<< HEAD
 edit  on master
 
+=======
+Creat  marge
+edit on branch location
+>>>>>>> location
